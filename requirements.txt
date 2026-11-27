@@ -1,3 +1,5 @@
+--extra-index-url https://www.paddlepaddle.org.cn/packages/stable/cpu/
+
 PyMuPDF
 numpy
 Pillow
