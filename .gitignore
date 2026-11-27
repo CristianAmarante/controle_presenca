@@ -1,0 +1,25 @@
+# Ambientes virtuais
+.venv*/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dados acadêmicos e financeiros
+dados/
+*.pdf
+*.xls
+*.xlsx
+*.csv
+*.zip
+
+# Modelos e cache
+.paddleocr/
+.paddlex/
+.cache/
+
+# Segurança
+.env
+.streamlit/secrets.toml

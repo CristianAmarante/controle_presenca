@@ -1,0 +1,11 @@
+PyMuPDF
+numpy
+Pillow
+opencv-python
+streamlit
+pandas
+openpyxl
+rapidfuzz
+pytesseract
+xlrd
+reportlab
